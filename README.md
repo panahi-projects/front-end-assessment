@@ -16,7 +16,9 @@ You are required to implement CRUD operations in the application. The app consis
 Products list displays the products details such as: title, image, price and etc. for each product.
 
 Here's the UI mockup with hints:
+
 Adobe XD link: https://xd.adobe.com/view/0c8febca-b9d1-484a-8a32-de487672bfad-59dc/
+
 **The above link only opens via VPN**
 
 ![Product Management Frontend](https://i.ibb.co/VCZbpWP/sampleUX.jpg)
