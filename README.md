@@ -16,8 +16,10 @@ You are required to implement CRUD operations in the application. The app consis
 Products list displays the products details such as: title, image, price and etc. for each product.
 
 Here's the UI mockup with hints:
+Adobe XD link: https://xd.adobe.com/view/0c8febca-b9d1-484a-8a32-de487672bfad-59dc/
+**The above link only opens via VPN**
 
-![Product Management Frontend](https://user-images.githubusercontent.com/450319/148280061-308e1a2d-b2f8-4ede-8f45-d1f437138863.png)
+![Product Management Frontend](https://i.ibb.co/VCZbpWP/sampleUX.jpg)
 
 
 #### The form for creating & updating product
@@ -40,12 +42,12 @@ Every newly submitted product should go on **the top of the list** and should ha
 ```html
 <section
   data-type="product"
-  data-product-id="${product-account-id}"
+  data-product-id="${product-id}"
   ...
 </section>
 ```
 
-- `${product-account-id}` - product id of the corresponding product.
+- `${product-id}` - product id of the corresponding product.
 
 ## Before you get started
 
