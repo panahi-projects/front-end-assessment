@@ -32,7 +32,8 @@ Adobe XD link: https://xd.adobe.com/view/0c8febca-b9d1-484a-8a32-de487672bfad-59
   <input data-type="title" ... />
   <input data-type="price" type="number" ... />
   ...
-  <button type="submit" ...>Create Product</button>
+  <button type="button" ...>Cancel</button>
+  <button type="submit" ...>Submit</button>
 </form>
 ```
 
