@@ -11,7 +11,8 @@ Please agree with your hiring team regarding the tech stack choice.
 
 ## What you should build
 
-You are required to implement CRUD operations in the application. The app consists of a form for submitting product and a products list.
+You are required to implement CRUD operations in the application and also the products must be searchable. In the other hand in the form the data of **Category** field should come from the API which is listed bellow. The app consists of a form for submitting product and a products list.
+
 
 Products list displays the products details such as: title, image, price and etc. for each product.
 
@@ -98,12 +99,26 @@ body: JSON.stringify({
 DELETE https://dummyjson.com/products/1
 ```
 
+##### Search products by name
+
+```
+GET https://dummyjson.com/products/search?q=phone
+```
+
+##### Get categories list
+
+```
+GET https://dummyjson.com/products/categories
+```
+
 </details>
 
 
 ## What we expect from you
 
 1. Implement client-side validation of the form data.
+2. Implement search box for searching products by name.
+3. Get the data of Category field's from API. 
 2. Implement error handling for the cases when the API cannot be reached or returns a server error.
 3. Ensure that the app remains responsive (i.e. doesn't block the UI) while the data is being loaded.
 4. Unit test one or two module of choice. There is no need to test the whole app, as we only want to understand what you take into consideration when writing unit tests.
