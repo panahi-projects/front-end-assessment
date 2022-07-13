@@ -20,7 +20,7 @@ Here's the UI mockup with hints:
 
 Adobe XD link: https://xd.adobe.com/view/0c8febca-b9d1-484a-8a32-de487672bfad-59dc/
 
-**The above link only opens via VPN if you are trying to open it from Iran**
+**The above link only opens via VPN if you are living in Iran**
 
 ![Product Management Frontend](https://i.ibb.co/VCZbpWP/sampleUX.jpg)
 
