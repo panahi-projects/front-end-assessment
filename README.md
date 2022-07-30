@@ -124,7 +124,7 @@ GET https://dummyjson.com/products/categories
 3. Ensure that the app remains responsive (i.e. doesn't block the UI) while the data is being loaded.
 4. Unit test one or two module of choice. There is no need to test the whole app, as we only want to understand what you take into consideration when writing unit tests.
 5. Avoid duplication and extract re-usable modules where it makes sense. We want to see your approach to creating a codebase that is easy to maintain.
-6. Push your code to the new `implementation` branch of your git profile. We encourage you to commit and push your changes regularly as it's a good way for you to showcase your thinking process.
+6. Push your code to the new `implementation` branch of your git repository and share with us the repository link to check them. We encourage you to commit and push your changes regularly as it's a good way for you to showcase your thinking process.
 7. Await further instructions from the hiring team.
 
 ## Time estimate
